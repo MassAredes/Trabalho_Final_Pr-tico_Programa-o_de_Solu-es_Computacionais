@@ -1,1 +1,1 @@
-# Trabalho_Final_Pr-tico_Programa-o_de_Solu-es_Computacionais
+# Trabalho_Final_Prático_Programação_de_Soluções_Computacionais
