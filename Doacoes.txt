@@ -1,0 +1,8 @@
+alimentos,2.0,20/11/2024
+dinheiro,1000.0,20/11/2024
+alimentos,1.0,20/11/2024
+alimentos,2.0,20/11/2024,arroz
+dinheiro,1000.0,20/11/2024
+alimentos,1.0,20/11/2024,arroz
+roupas,1.0,20/11/2024,masculino,GG
+dinheiro,2000.0,20/06/2023
